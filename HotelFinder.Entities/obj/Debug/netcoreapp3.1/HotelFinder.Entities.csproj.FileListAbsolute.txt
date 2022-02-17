@@ -1,0 +1,10 @@
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\HotelFinder.Entities.deps.json
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.csproj.AssemblyReference.cache
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.AssemblyInfoInputs.cache
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.AssemblyInfo.cs
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.csproj.CoreCompileInputs.cache
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+D:\.NetKurs\HotelFinder\HotelFinder.Entities\obj\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
